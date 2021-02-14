@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'FS-Albert-Family';
+    src: url('../fonts/FS-Albert-Family/FSAlbertCyrillicWeb.woff2') format('woff2'),
+        url('../fonts/FS-Albert-Family/FSAlbertCyrillic-ExtraBoldWeb.woff2') format('woff2'),
+        url('../fonts/FS-Albert-Family/FSAlbertCyrillic-BoldWeb.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FSJoeyCyrillic';
+    src: url('../fonts/FS-Joey-Pro-Heavy/FSJoeyCyrillicWebHeavy.woff2') format('woff2');
+    font-display: swap;
+}
